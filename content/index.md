@@ -1,7 +1,6 @@
 ---
-title: جزوه ها
+title: Welcome to Quartz
 ---
 
-وقتی اینارو تهیه میشده برای خودم مینوشتم پس اگر چیزی دیدید که نباید، نادیده‌اش بگیرید. 
-fd fd
-gjc
+This is a blank Quartz installation.
+See the [documentation](https://quartz.jzhao.xyz) for how to get started.
